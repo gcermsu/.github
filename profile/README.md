@@ -1,4 +1,4 @@
-﻿# Geospatial Computing for Environmental Research (GCER) Lab
+﻿# Geospatial Computing for Earth observation Research (GCER) Lab
 
 Welcome to the Mississippi State University **Geospatial Computing for Earth observation Research (GCER) Lab** in the Department of Agricultural and Biological Engineering. We study land and water resources management using Earth Observation data. Our scientific work addresses many relevant Earth's process questions using deep learning models, including land cover and land use change, water quantity and quality, agricultural conservation practices, and climate change. Learn more about us at [gcerlab.com](https://gcerlab.com/).
 
@@ -21,6 +21,7 @@ Here you can find software, tutorials, and tools developed in our lab and that a
 
 ## Highlighted projects
 - [L-CONNECT](https://github.com/rejane-paulino/lconnect): combines machine learning and spectral similarity features to predict water surface connectivity between floodplain lakes and their main river. Author: [Rejane Paulino](https://github.com/rejane-paulino)
+
 
 
 
