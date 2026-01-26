@@ -9,6 +9,9 @@ Here you can find software, tutorials, and tools developed in our lab and that a
 - [geospatial_project_example](https://github.com/gcermsu/geospatial_project_example): A guide on how to create a geospatial project organized as a Python package. Author: [Lucas Ferreira](https://github.com/lbferreira)
 
 ## Open-source packages
+- [ClimaGrid](https://github.com/gcermsu/climagrid): A package to explore climate data from Earth Engine collections. Author: [Thainara Lima](https://github.com/thaimunhoz)
+- [PlanetScopeDownloader](https://github.com/gcermsu/PlanetDownloader): A package to search and download PlanetScope SuperDove imagery through the Planet Data API. Author: [Thainara Lima](https://github.com/thaimunhoz)
+- [AQUApatcher](https://github.com/gcermsu/AquaPatcher): A package to extract Deep Learning training image patches from remote sensing imagery. Author: [Thainara Lima](https://github.com/thaimunhoz)
 - [ezgrid](https://github.com/lbferreira/ezgrid): a package supporting different methods for quick point allocation within a polygon. Author: [Lucas Ferreira](https://github.com/lbferreira)
 - [S2/3Aqua](https://github.com/rejane-paulino/s23aqua): a package designed to generate synthetic reflectance bands for aquatic tasks. Author: [Rejane Paulino](https://github.com/rejane-paulino)
 - [AerOC Scan](https://github.com/rejane-paulino/aerocscan): a package designed to download, filter, and correct AERONET-OC (Aerosol Robotic Network-Ocean Color) data. Author: [Rejane Paulino](https://github.com/rejane-paulino)
@@ -18,5 +21,6 @@ Here you can find software, tutorials, and tools developed in our lab and that a
 
 ## Highlighted projects
 - [L-CONNECT](https://github.com/rejane-paulino/lconnect): combines machine learning and spectral similarity features to predict water surface connectivity between floodplain lakes and their main river. Author: [Rejane Paulino](https://github.com/rejane-paulino)
+
 
 
